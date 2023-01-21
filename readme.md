@@ -1,4 +1,4 @@
-# Topic Modeling from Facebook comments from LGU public information pages using BiTerm and DistilBERT
+# Topic Modeling of Facebook comments from LGU public information pages using BiTerm and DistilBERT
 [![Generic badge](https://img.shields.io/badge/build-passed-<COLOR>.svg)](https://shields.io/)      [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 This project contains modules which model topics from Facebook comments from LGU public information pages using BiTerm and DistilBERT
